@@ -1,6 +1,4 @@
-"# Hollywood-Most-Profitable-Stories" 
- 
- git clone https://github.com/narendrabariha/Hollywood-Most-Profitable-Stories.git
+git clone https://github.com/narendrabariha/Hollywood-Most-Profitable-Stories.git
 cd Hollywood-Most-Profitable-Stories
 
 echo "# Hollywood-Most-Profitable-Stories" >> README.md
